@@ -1,0 +1,36 @@
+body {
+  background-color: #1f1f2e
+}
+#return{
+   text-align: center;
+  color: grey;
+  font-size: 15px;
+}
+
+h6{
+  text-align: right;
+  color: grey;
+  font-size: 15px;
+}
+h1 {
+  font: Didot, serif;
+  text-align: center;
+  color: grey;
+  font-size: 69px;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  text-align: center;
+  color: grey;
+  font-size: 25px
+}
+
+p2 {
+  color: white;
+  font-size: 15px;
+}
